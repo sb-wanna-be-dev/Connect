@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Connect" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorSurfaceVariant">@color/gray_light</item>
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/connect_orange</item>
+        <item name="colorPrimaryContainer">@color/connect_orange_light</item>
+
+        <!-- Accent / highlights -->
+        <item name="colorSecondary">@color/connect_orange</item>
+        <item name="colorSecondaryContainer">@color/connect_orange_light</item>
+
+    </style>
+</resources>
